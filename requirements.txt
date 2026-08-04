@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+numpy
+pillow
+rasterio
+geopandas
+shapely
+folium
+streamlit-folium
+scikit-learn
+tensorflow
+torch
