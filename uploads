@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bhubaneswar Test Area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [85.82,20.29],
+            [85.83,20.29],
+            [85.83,20.30],
+            [85.82,20.30],
+            [85.82,20.29]
+          ]
+        ]
+      }
+    }
+  ]
+}
